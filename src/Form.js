@@ -8,12 +8,11 @@ function Form(){
     
   </ul>
   <fieldset>
-    <h2 className="fs-title">Create your account</h2>
-    <h3 className="fs-subtitle">This is step 1</h3>
-    <input type="text" name="email" placeholder="Email" />
+    <h2 className="fs-title">Apply for book</h2>
+    <h3 className="fs-subtitle"></h3>
+    <input type="text" name="email" placeholder="Library User Id" />
     <input type="password" name="pass" placeholder="Password" />
-    <input type="password" name="cpass" placeholder="Confirm Password" />
-    <input type="button" name="next" className="next action-button" value="Next" />
+    <input type="button" name="next" className="next action-button" value="Confirm" />
   </fieldset>
   <fieldset>
     <h2 className="fs-title">Social Profiles</h2>

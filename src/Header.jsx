@@ -7,11 +7,11 @@ function Header(){
         
         <div className="head">
             <ul className="nav">
-                <li > 
-                    <a href="/"> 
-                    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/42/GLA_University_logo.png/180px-GLA_University_logo.png' alt='Your Library Name' style={{ width: '100px', height: '100px' }}/>
-                    </a> 
-                </li>
+            <li> 
+    <a href="/" style={{marginRight: '600px', marginLeft:'40px'}}> 
+        <img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/42/GLA_University_logo.png/180px-GLA_University_logo.png' alt='Your Library Name' style={{width: '60px', height: '70px'}}/>
+    </a> 
+</li>
                 <li> 
                     <a href="/">Home</a> 
                 </li>
