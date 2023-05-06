@@ -16,10 +16,10 @@ function Header(){
                     <a href="/">Home</a> 
                 </li>
                 <li> 
-                    <a href="/about">About</a> 
+                    <a href="/Issue">Issue Book</a> 
                 </li>
                 <li> 
-                    <a href="/mission">Our Mission</a> 
+                    <a href="/Mission">Our Mission</a> 
                 </li>
                 <li className="cta"> 
                     <a href="/signin">Sign In</a> 

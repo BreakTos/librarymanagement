@@ -33,9 +33,9 @@ function Cards(){
   </div>
   <div className="card">
     <div className="content">
-      <h2 className="title">Explore The Galaxy</h2>
-      <p className="copy">Seriously, straight up, just blast off into outer space today</p>
-      <button className="btn">Book Now</button>
+      <h2 className="title">Fiction</h2>
+      <p className="copy">Creative and Imaginative Books for fun</p>
+      <button className="btn">View Books</button>
     </div>
   </div>
 </main>
