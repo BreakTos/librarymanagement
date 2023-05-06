@@ -9,7 +9,7 @@ function Header(){
             <ul className="nav">
                 <li > 
                     <a href="/"> 
-                    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/42/GLA_University_logo.png/180px-GLA_University_logo.png' alt='Your Library Name' />
+                    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/42/GLA_University_logo.png/180px-GLA_University_logo.png' alt='Your Library Name' style={{ width: '100px', height: '100px' }}/>
                     </a> 
                 </li>
                 <li> 
