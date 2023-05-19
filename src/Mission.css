@@ -1,0 +1,11 @@
+.mission-container{
+    margin: 50px;
+    padding-bottom: 50px;
+}
+.stuff{
+    display: flex;
+    justify-content: space-between;
+}  
+.mission-list{
+    margin-bottom: 100px;
+}
