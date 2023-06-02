@@ -35,10 +35,11 @@ function Cards(){
     <div className="content">
       <h2 className="title">Fiction</h2>
       <p className="copy">Creative and Imaginative Books for fun</p>
-      <button className="btn">View Books</button>
+      <button className="btn">View Books </button>
     </div>
   </div>
 </main>
+
            </>
     );
 }
